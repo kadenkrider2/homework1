@@ -1,4 +1,4 @@
-public class hw01pro2 {
+public class hw01prog2 {
 	public static void main(String[] args) {
         System.out.println("*        *       *    *           *  *          ******        * *");
         System.out.println("*     *          *       *        *    *        *             *   * ");
